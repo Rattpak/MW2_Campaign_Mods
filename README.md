@@ -8,6 +8,7 @@
 
 ## Folder setup should be
 - Modern Warfare 2 root
+  - iw4sp_codmod.exe
   - spdata
     - (extracted rar files)
     
