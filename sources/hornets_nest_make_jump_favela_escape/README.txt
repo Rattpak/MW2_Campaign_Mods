@@ -1,0 +1,1 @@
+you have to press 'G' in order to teleport through the barrier that blocks you from making the jump.
