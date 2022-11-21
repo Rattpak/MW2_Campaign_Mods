@@ -9,6 +9,7 @@
 ## Folder setup should be
 - Modern Warfare 2 root
   - iw4sp_codmod.exe
+  - iw4sp.hk
   - spdata
     - (extracted rar files)
     
