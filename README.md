@@ -15,7 +15,8 @@
   - iw4sp.hk
   - spdata
     - (extracted rar files)
-    
+
+  Note: These mods will probably work with the AlterWare IW4 client too.
 ## Mods I Will Not Be Adding
 - The Civilian Juggernaut Mods. It contains assets and fastfiles that belong to IW
     
