@@ -1,5 +1,8 @@
 # MW2_Campaign_Mods
 
+## Info
+- There are a couple of mods that need to be uploaded here still. This will be done in the next couple of days.
+
 ## How To Use
 - Download iw4sp_codmod.exe and place it in your Modern Warfare 2 Root Folder
 - Choose a .rar to download, extract it, and place the files in a new folder called "spdata" in the MW2 Root
