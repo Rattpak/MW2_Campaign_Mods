@@ -19,6 +19,7 @@
   Note: These mods will probably work with the AlterWare IW4 client too.
 ## Mods I Will Not Be Adding
 - The Civilian Juggernaut Mods. It contains assets and fastfiles that belong to IW
+- Estate Price/Shepherd Swap. It contains assets and fastfiles that belong to IW
     
 ## Editing
 - Feel free to edit any of the gsc files, just don't upload them as your own without giving credit
