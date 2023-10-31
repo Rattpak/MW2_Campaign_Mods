@@ -2,6 +2,7 @@
 
 ## Info
 - There are a couple of mods that need to be uploaded here still. This will be done in the next couple of days.
+- Halloween mod will be here
 
 ## How To Use
 - Download iw4sp_codmod.exe and place it in your Modern Warfare 2 Root Folder
