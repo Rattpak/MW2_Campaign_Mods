@@ -14,6 +14,9 @@
 - Modern Warfare 2 root
   - iw4sp_codmod.exe
   - iw4sp.hk
+  - zone
+    - custom
+      - (extracted zone file)
   - spdata
     - (extracted rar files)
 
