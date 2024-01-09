@@ -5,6 +5,7 @@
 - Choose a .rar to download, extract it, and place the files in a new folder called "spdata" in the MW2 Root
   - Don't install more than 1 mod at once (will probably break)
 - Launch the game via the iw4sp_codmod.exe. This exe will load the mod and give you access to the developer console (~)
+- If using in a video please give credit
 
 ## Folder setup should be
 - Modern Warfare 2 root
